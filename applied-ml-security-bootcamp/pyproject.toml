@@ -1,0 +1,15 @@
+[project]
+name = "applied-ml-security-bootcamp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "hydra-core>=1.3.2",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "pytest>=9.0.2",
+    "ruff>=0.14.10",
+    "scikit-learn>=1.8.0",
+    "torch>=2.9.1",
+]
