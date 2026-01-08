@@ -14,8 +14,17 @@
   - Stampa train shape, test shape e labels shape e l'anomaly ratio
   - Crea il grafico
 
-![alt text](diagramma.png "Graph")
+![alt text](images/diagramma.png "Graph")
 
 - La linea blu sono i valori reali;
 - le linee blu grosse è una sequenza binaria che indica dove un punto è anomalo o meno
 - la linea rosa una maschera di anomalie
+
+---
+
+Quella che pensavo essere un'anomaly mask in realtà non lo era.
+Grafo corretto:
+![alt text](images/diagrammaok.png "Graph")
+Per l'anomaly mask ho dovuta crearla dato il file labeled anomalies che da un range per ogni file di valori anomali.
+
+As I studied in different courses of machine learning studying the dataset is important, the next step is to check for relevant characteristics of the dataset.
