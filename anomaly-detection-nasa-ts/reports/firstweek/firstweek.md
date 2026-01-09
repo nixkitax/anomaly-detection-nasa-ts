@@ -28,3 +28,5 @@ Grafo corretto:
 Per l'anomaly mask ho dovuta crearla dato il file labeled anomalies che da un range per ogni file di valori anomali.
 
 As I studied in different courses of machine learning studying the dataset is important, the next step is to check for relevant characteristics of the dataset.
+
+Ho aggiunto delle funzioni in explore anomalies per far sì che eseguano correttamente le operazioni in explore anomalies
