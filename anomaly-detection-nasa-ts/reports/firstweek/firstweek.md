@@ -26,6 +26,7 @@ Quella che pensavo essere un'anomaly mask in realtà non lo era.
 Grafo corretto:
 ![alt text](images/diagrammaok.png "Graph")
 Per l'anomaly mask ho dovuta crearla dato il file labeled anomalies che da un range per ogni file di valori anomali.
+La sequenza binaria è stata rimossa e ora ci sono le parti viola che indicano i range anomali che sono segnalati nel fle labeled_anomalies.csv presenti direttamente dal dataset NASA
 
 As I studied in different courses of machine learning studying the dataset is important, the next step is to check for relevant characteristics of the dataset.
 
